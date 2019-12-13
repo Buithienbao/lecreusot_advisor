@@ -1,0 +1,6 @@
+Centre Condorcet University;10,11;Univeristy
+Le Fût-Mets;11,12;Restaurant
+Carrefour;12,13;Supermarket
+Library;13,14;Building
+Residence Acacias;15,16;Building
+Aldi;17,18;Supermarket
